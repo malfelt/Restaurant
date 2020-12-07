@@ -1,4 +1,7 @@
-package model;
+package service;
+
+import model.Person;
+import model.Preferences;
 
 import java.util.*;
 

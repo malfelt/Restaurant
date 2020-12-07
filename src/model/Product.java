@@ -46,12 +46,12 @@ public abstract class Product {
         return sale;
     }
 
-    public void setSale(int sale) throws Exception {
+    public void setSale(int sale){
         if (sale < 100) {
             this.sale = sale;
         } else {
             this.sale = 0;
-            throw new Exception("Скидка не может быть больше 100%! Установлено значение 0.");
+            System.out.println("Скидка не может быть больше 100%! Установлено значение 0.");
         }
     }
 

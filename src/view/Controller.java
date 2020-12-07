@@ -6,14 +6,12 @@ import model.Product;
 import model.Salad;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
-import javafx.scene.control.Label;
 import javafx.scene.control.TextArea;
-import service.Console;
+import service.Restaurant;
 import service.Terminal;
 import service.Window;
 import model.Person;
 import model.Preferences;
-import model.Repository;
 
 import java.net.URL;
 import java.util.ArrayList;

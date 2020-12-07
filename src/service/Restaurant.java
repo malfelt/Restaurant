@@ -1,9 +1,10 @@
-package view;
+package service;
 
 import model.Product;
 import service.Terminal;
 import model.Person;
-import model.Repository;
+import service.Repository;
+import view.Table;
 
 
 import java.util.ArrayList;

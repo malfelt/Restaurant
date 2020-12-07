@@ -1,16 +1,5 @@
 package view;
 
-import model.Drink;
-import model.MainDish;
-import model.Product;
-import model.Salad;
-import service.Console;
-import model.Repository;
-import view.Restaurant;
-
-import java.util.ArrayList;
-import java.util.List;
-
 public class ConsoleApplication {
 
     public static void main(String[] args) {

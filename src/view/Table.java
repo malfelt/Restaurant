@@ -1,10 +1,9 @@
 package view;
 
 import model.Product;
+import service.Restaurant;
 import service.Terminal;
 import model.Person;
-import model.Repository;
-import service.Window;
 
 import java.util.List;
 

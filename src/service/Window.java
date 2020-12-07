@@ -4,6 +4,8 @@ package service;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextArea;
 
+import java.awt.*;
+
 public class Window extends Terminal {
 
     TextArea textArea;
